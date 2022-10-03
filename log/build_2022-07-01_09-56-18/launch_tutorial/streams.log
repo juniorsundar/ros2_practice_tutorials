@@ -1,0 +1,21 @@
+[1.478s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/launch_tutorial': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/install.log --single-version-externally-managed
+[1.705s] running egg_info
+[1.706s] writing ../../build/launch_tutorial/launch_tutorial.egg-info/PKG-INFO
+[1.706s] writing dependency_links to ../../build/launch_tutorial/launch_tutorial.egg-info/dependency_links.txt
+[1.706s] writing entry points to ../../build/launch_tutorial/launch_tutorial.egg-info/entry_points.txt
+[1.706s] writing requirements to ../../build/launch_tutorial/launch_tutorial.egg-info/requires.txt
+[1.706s] writing top-level names to ../../build/launch_tutorial/launch_tutorial.egg-info/top_level.txt
+[1.720s] reading manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.722s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.722s] running build
+[1.722s] running build_py
+[1.722s] running install
+[1.722s] running install_lib
+[1.723s] running install_data
+[1.724s] copying launch/example_substitutions.launch.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/launch_tutorial/launch
+[1.724s] running install_egg_info
+[1.725s] removing '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info' (and everything under it)
+[1.725s] Copying ../../build/launch_tutorial/launch_tutorial.egg-info to /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info
+[1.732s] running install_scripts
+[1.746s] writing list of installed files to '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/install.log'
+[1.781s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/launch_tutorial' returned '0': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/install.log --single-version-externally-managed

@@ -1,0 +1,19 @@
+{
+  "package_name": "cpp_srvcli",
+  "output_dir": "/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_srvcli/rosidl_typesupport_introspection_c/cpp_srvcli",
+  "template_dir": "/opt/ros/foxy/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_srvcli/rosidl_adapter/cpp_srvcli:srv/AddTwoInts.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/foxy/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_srvcli/rosidl_adapter/cpp_srvcli/srv/AddTwoInts.idl"
+  ]
+}

@@ -1,0 +1,43 @@
+[1.378s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/py_pubsub': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/install.log --single-version-externally-managed
+[1.644s] running egg_info
+[1.645s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[1.645s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.645s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.645s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.645s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.645s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.646s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.647s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.648s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.654s] running build
+[1.654s] running build_py
+[1.654s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build
+[1.655s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib
+[1.655s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib/py_pubsub
+[1.655s] copying py_pubsub/subscriber_member_function.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib/py_pubsub
+[1.655s] copying py_pubsub/publisher_member_function.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib/py_pubsub
+[1.656s] copying py_pubsub/__init__.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib/py_pubsub
+[1.661s] running install
+[1.662s] running install_lib
+[1.662s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.662s] copying /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.663s] copying /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.663s] copying /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.663s] byte-compiling /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[1.663s] byte-compiling /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[1.664s] byte-compiling /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc
+[1.664s] running install_data
+[1.664s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/share/ament_index
+[1.665s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/share/ament_index/resource_index
+[1.665s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/share/ament_index/resource_index/packages
+[1.665s] copying resource/py_pubsub -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/share/ament_index/resource_index/packages
+[1.665s] copying package.xml -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/share/py_pubsub
+[1.666s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/share/py_pubsub/launch
+[1.666s] copying launch/turtlesim_mimic.launch.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/share/py_pubsub/launch
+[1.666s] running install_egg_info
+[1.666s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[1.666s] running install_scripts
+[1.677s] Installing listener script to /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/py_pubsub
+[1.677s] Installing talker script to /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/py_pubsub
+[1.678s] writing list of installed files to '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/install.log'
+[1.750s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/py_pubsub' returned '0': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/py_pubsub/install.log --single-version-externally-managed

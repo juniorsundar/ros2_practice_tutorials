@@ -1,0 +1,66 @@
+[0.798s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake /home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial
+[0.830s] -- The C compiler identification is GNU 9.4.0
+[0.873s] -- The CXX compiler identification is GNU 9.4.0
+[0.878s] -- Detecting C compiler ABI info
+[0.911s] -- Detecting C compiler ABI info - done
+[0.922s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.923s] -- Detecting C compile features
+[0.923s] -- Detecting C compile features - done
+[0.927s] -- Detecting CXX compiler ABI info
+[0.969s] -- Detecting CXX compiler ABI info - done
+[0.976s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.976s] -- Detecting CXX compile features
+[0.977s] -- Detecting CXX compile features - done
+[0.979s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.000s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.000s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.354s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.371s] -- Configuring done
+[1.374s] -- Generating done
+[1.375s] -- Build files have been written to: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial
+[1.382s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake /home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial
+[1.386s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --build /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial -- -j16 -l16
+[1.400s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --build /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial -- -j16 -l16
+[1.428s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --install /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial
+[1.433s] -- Install configuration: ""
+[1.433s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/images
+[1.433s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/images/multipleshapes.png
+[1.433s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/images/origins.png
+[1.433s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/images/flexible.png
+[1.433s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/images/materials.png
+[1.434s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/images/myfirst.png
+[1.434s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/images/visual.png
+[1.434s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/launch
+[1.434s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch.py
+[1.434s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/meshes
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip_color.png
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip.dae
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger.dae
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_color.png
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/rviz
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/rviz/urdf.rviz
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf
+[1.435s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/03-origins.urdf
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/08-macroed.urdf.xacro
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/05-visual.urdf
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/02-multipleshapes.urdf
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/01-myfirst.urdf
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/07-physics.urdf
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/04-materials.urdf
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/urdf/06-flexible.urdf
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+[1.436s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+[1.437s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+[1.438s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+[1.438s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+[1.438s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/urdf_tutorial/share/urdf_tutorial/package.xml
+[1.440s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --install /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/urdf_tutorial

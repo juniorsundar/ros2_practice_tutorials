@@ -1,0 +1,37 @@
+[1.391s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/launch_tutorial': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/install.log --single-version-externally-managed
+[1.608s] running egg_info
+[1.608s] creating ../../build/launch_tutorial/launch_tutorial.egg-info
+[1.609s] writing ../../build/launch_tutorial/launch_tutorial.egg-info/PKG-INFO
+[1.609s] writing dependency_links to ../../build/launch_tutorial/launch_tutorial.egg-info/dependency_links.txt
+[1.609s] writing entry points to ../../build/launch_tutorial/launch_tutorial.egg-info/entry_points.txt
+[1.609s] writing requirements to ../../build/launch_tutorial/launch_tutorial.egg-info/requires.txt
+[1.609s] writing top-level names to ../../build/launch_tutorial/launch_tutorial.egg-info/top_level.txt
+[1.610s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.611s] reading manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.612s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.612s] running build
+[1.612s] running build_py
+[1.613s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build
+[1.613s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build/lib
+[1.613s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build/lib/launch_tutorial
+[1.613s] copying launch_tutorial/__init__.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build/lib/launch_tutorial
+[1.613s] running install
+[1.613s] running install_lib
+[1.614s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial
+[1.614s] copying /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build/lib/launch_tutorial/__init__.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial
+[1.614s] byte-compiling /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial/__init__.py to __init__.cpython-38.pyc
+[1.614s] running install_data
+[1.615s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/ament_index
+[1.615s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/ament_index/resource_index
+[1.615s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/ament_index/resource_index/packages
+[1.615s] copying resource/launch_tutorial -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/ament_index/resource_index/packages
+[1.615s] copying package.xml -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/launch_tutorial
+[1.615s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/launch_tutorial/launch
+[1.616s] copying launch/example_event_handlers.launch.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/launch_tutorial/launch
+[1.616s] copying launch/example_main.launch.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/launch_tutorial/launch
+[1.616s] copying launch/example_substitutions.launch.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/share/launch_tutorial/launch
+[1.616s] running install_egg_info
+[1.617s] Copying ../../build/launch_tutorial/launch_tutorial.egg-info to /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info
+[1.617s] running install_scripts
+[1.633s] writing list of installed files to '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/install.log'
+[1.669s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/launch_tutorial' returned '0': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/launch_tutorial/install.log --single-version-externally-managed

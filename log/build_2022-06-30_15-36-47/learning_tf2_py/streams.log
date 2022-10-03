@@ -1,0 +1,37 @@
+[1.487s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/learning_tf2_py': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/install.log --single-version-externally-managed
+[1.763s] running egg_info
+[1.763s] creating ../../build/learning_tf2_py/learning_tf2_py.egg-info
+[1.763s] writing ../../build/learning_tf2_py/learning_tf2_py.egg-info/PKG-INFO
+[1.763s] writing dependency_links to ../../build/learning_tf2_py/learning_tf2_py.egg-info/dependency_links.txt
+[1.763s] writing entry points to ../../build/learning_tf2_py/learning_tf2_py.egg-info/entry_points.txt
+[1.763s] writing requirements to ../../build/learning_tf2_py/learning_tf2_py.egg-info/requires.txt
+[1.763s] writing top-level names to ../../build/learning_tf2_py/learning_tf2_py.egg-info/top_level.txt
+[1.764s] writing manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[1.772s] reading manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[1.773s] writing manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[1.773s] running build
+[1.773s] running build_py
+[1.773s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build
+[1.773s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build/lib
+[1.774s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build/lib/learning_tf2_py
+[1.774s] copying learning_tf2_py/static_turtle_tf2_broadcaster.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build/lib/learning_tf2_py
+[1.774s] copying learning_tf2_py/__init__.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build/lib/learning_tf2_py
+[1.774s] running install
+[1.774s] running install_lib
+[1.774s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages/learning_tf2_py
+[1.774s] copying /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build/lib/learning_tf2_py/static_turtle_tf2_broadcaster.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages/learning_tf2_py
+[1.775s] copying /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build/lib/learning_tf2_py/__init__.py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages/learning_tf2_py
+[1.775s] byte-compiling /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages/learning_tf2_py/static_turtle_tf2_broadcaster.py to static_turtle_tf2_broadcaster.cpython-38.pyc
+[1.775s] byte-compiling /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages/learning_tf2_py/__init__.py to __init__.cpython-38.pyc
+[1.775s] running install_data
+[1.775s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/share/ament_index
+[1.775s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/share/ament_index/resource_index
+[1.775s] creating /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/share/ament_index/resource_index/packages
+[1.775s] copying resource/learning_tf2_py -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/share/ament_index/resource_index/packages
+[1.775s] copying package.xml -> /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/share/learning_tf2_py
+[1.776s] running install_egg_info
+[1.776s] Copying ../../build/learning_tf2_py/learning_tf2_py.egg-info to /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages/learning_tf2_py-0.0.0-py3.8.egg-info
+[1.782s] running install_scripts
+[1.804s] Installing static_turtle_tf2_broadcaster script to /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/learning_tf2_py
+[1.804s] writing list of installed files to '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/install.log'
+[1.870s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/learning_tf2_py' returned '0': PYTHONPATH=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/build install --prefix /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py --record /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/learning_tf2_py/install.log --single-version-externally-managed

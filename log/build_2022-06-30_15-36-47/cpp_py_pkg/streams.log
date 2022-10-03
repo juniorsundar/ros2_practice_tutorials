@@ -1,0 +1,85 @@
+[0.073s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake /home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/cpp_py_pkg -DCMAKE_INSTALL_PREFIX=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg
+[0.874s] -- The C compiler identification is GNU 9.4.0
+[0.874s] -- The CXX compiler identification is GNU 9.4.0
+[0.874s] -- Detecting C compiler ABI info
+[0.874s] -- Detecting C compiler ABI info - done
+[0.874s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.875s] -- Detecting C compile features
+[0.875s] -- Detecting C compile features - done
+[0.875s] -- Detecting CXX compiler ABI info
+[0.875s] -- Detecting CXX compiler ABI info - done
+[0.875s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.875s] -- Detecting CXX compile features
+[0.875s] -- Detecting CXX compile features - done
+[0.875s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.875s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.875s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.875s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.875s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.876s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.876s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.876s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.876s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.876s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.876s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.876s] -- Looking for pthread.h
+[0.876s] -- Looking for pthread.h - found
+[0.876s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.876s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.876s] -- Looking for pthread_create in pthreads
+[0.877s] -- Looking for pthread_create in pthreads - not found
+[0.877s] -- Looking for pthread_create in pthread
+[0.877s] -- Looking for pthread_create in pthread - found
+[0.877s] -- Found Threads: TRUE  
+[0.971s] -- Found rclpy: 1.0.8 (/opt/ros/foxy/share/rclpy/cmake)
+[0.996s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.057s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.059s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.059s] -- Configured cppcheck include dirs: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/cpp_py_pkg/include
+[1.059s] -- Configured cppcheck exclude dirs and/or files: 
+[1.061s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.061s] -- Configured cpplint exclude dirs and/or files: 
+[1.061s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.062s] -- Added test 'lint_cmake' to check CMake code style
+[1.063s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.064s] -- Added test 'uncrustify' to check C / C++ code style
+[1.064s] -- Configured uncrustify additional arguments: 
+[1.064s] -- Added test 'xmllint' to check XML markup files
+[1.066s] -- Configuring done
+[1.073s] -- Generating done
+[1.074s] -- Build files have been written to: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg
+[1.083s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake /home/juniorsundar/ROS_Workspaces/ros2_tutorials/src/cpp_py_pkg -DCMAKE_INSTALL_PREFIX=/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg
+[1.086s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --build /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg -- -j16 -l16
+[1.103s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_node.dir/src/cpp_node.cpp.o[0m
+[5.701s] [100%] [32m[1mLinking CXX executable cpp_node[0m
+[5.887s] [100%] Built target cpp_node
+[5.890s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --build /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg -- -j16 -l16
+[5.902s] Invoking command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --install /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg
+[5.904s] -- Install configuration: ""
+[5.904s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/cpp_py_pkg/cpp_node
+[5.905s] -- Set runtime path of "/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/cpp_py_pkg/cpp_node" to ""
+[5.905s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/environment/pythonpath.sh
+[5.905s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/environment/pythonpath.dsv
+[5.905s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/python3.8/site-packages/cpp_py_pkg
+[5.905s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/python3.8/site-packages/cpp_py_pkg/modules_to_import.py
+[5.905s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/python3.8/site-packages/cpp_py_pkg/__init__.py
+[5.930s] Listing '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/python3.8/site-packages/cpp_py_pkg'...
+[5.930s] Compiling '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/python3.8/site-packages/cpp_py_pkg/__init__.py'...
+[5.930s] Compiling '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/python3.8/site-packages/cpp_py_pkg/modules_to_import.py'...
+[5.933s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/lib/cpp_py_pkg/py_node.py
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_py_pkg
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_py_pkg
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/environment/ament_prefix_path.sh
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/environment/ament_prefix_path.dsv
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/environment/path.sh
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/environment/path.dsv
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/local_setup.bash
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/local_setup.sh
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/local_setup.zsh
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/local_setup.dsv
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/package.dsv
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/ament_index/resource_index/packages/cpp_py_pkg
+[5.934s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/cmake/cpp_py_pkgConfig.cmake
+[5.935s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/cmake/cpp_py_pkgConfig-version.cmake
+[5.935s] -- Installing: /home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/cpp_py_pkg/share/cpp_py_pkg/package.xml
+[5.940s] Invoked command in '/home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/py_pubsub:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/learning_tf2_py:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/launch_tutorial:/home/juniorsundar/ROS_Workspaces/ros2_tutorials/install/action_py_tutorials:/opt/ros/foxy /home/juniorsundar/.local/bin/cmake --install /home/juniorsundar/ROS_Workspaces/ros2_tutorials/build/cpp_py_pkg
